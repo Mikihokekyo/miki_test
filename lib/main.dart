@@ -33,7 +33,7 @@ class MainPage extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title:  const Text('Navigator'),
+        title:  const Text('ナビゲーター'),
           actions: const [Icon(Icons.add_shopping_cart_sharp)],
       ),
       body:  Container(
